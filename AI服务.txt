@@ -1,3 +1,4 @@
+#openai
 host-suffix, openai.com, AI服务
 host-suffix, chatgpt.com, AI服务
 host-suffix, auth.openai.com, AI服务
@@ -12,6 +13,7 @@ host-suffix, intercom.io, AI服务
 host-suffix, intercomcdn.com, AI服务
 host-suffix, ct.sendgrid.net, AI服务
 
+#claude
 host-suffix, claude.ai, AI服务
 host-suffix, anthropic.com, AI服务
 
