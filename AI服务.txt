@@ -1,0 +1,17 @@
+host-suffix, openai.com, AI服务
+host-suffix, chatgpt.com, AI服务
+host-suffix, auth.openai.com, AI服务
+host-suffix, auth0.openai.com, AI服务
+host-suffix, oaistatic.com, AI服务
+host-suffix, oaiusercontent.com, AI服务
+host, android.chat.openai.com, AI服务
+
+host-suffix, statsig.com, AI服务
+host-suffix, featuregates.org, AI服务
+host-suffix, intercom.io, AI服务
+host-suffix, intercomcdn.com, AI服务
+host-suffix, ct.sendgrid.net, AI服务
+
+host-suffix, claude.ai, AI服务
+host-suffix, anthropic.com, AI服务
+
