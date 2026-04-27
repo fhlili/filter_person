@@ -17,4 +17,15 @@ host-suffix, ct.sendgrid.net, AI服务
 host-suffix, claude.ai, AI服务
 host-suffix, anthropic.com, AI服务
 
+#wechat
+host-suffix, wechat.com, direct
+host-suffix, weixin.qq.com, direct
+host-suffix, wx.qq.com, direct
+host-suffix, qpic.cn, direct
+host-suffix, gtimg.com, direct
+host-suffix, gtimg.cn, direct
+host-suffix, map.qq.com, direct
+host-suffix, servicewechat.com, direct
+host-suffix, wxapp.tc.qq.com, direct
+
 
