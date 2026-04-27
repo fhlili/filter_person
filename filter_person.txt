@@ -27,5 +27,5 @@ host-suffix, gtimg.cn, direct
 host-suffix, map.qq.com, direct
 host-suffix, servicewechat.com, direct
 host-suffix, wxapp.tc.qq.com, direct
-
+ip-cidr, 43.160.156.0/24, direct
 
