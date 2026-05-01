@@ -18,6 +18,7 @@ host-suffix, claude.ai, AI服务
 host-suffix, anthropic.com, AI服务
 
 #wechat
+host-suffix, qq.com, direct
 host-suffix, wechat.com, direct
 host-suffix, weixin.qq.com, direct
 host-suffix, wx.qq.com, direct
